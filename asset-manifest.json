@@ -1,13 +1,13 @@
 {
-  "main.css": "/demo/react-on-screen-test/static/css/main.b1247435.chunk.css",
-  "main.js": "/demo/react-on-screen-test/static/js/main.5dbf859a.chunk.js",
-  "main.js.map": "/demo/react-on-screen-test/static/js/main.5dbf859a.chunk.js.map",
-  "static/js/1.720bc022.chunk.js": "/demo/react-on-screen-test/static/js/1.720bc022.chunk.js",
-  "static/js/1.720bc022.chunk.js.map": "/demo/react-on-screen-test/static/js/1.720bc022.chunk.js.map",
-  "runtime~main.js": "/demo/react-on-screen-test/static/js/runtime~main.a4902b54.js",
-  "runtime~main.js.map": "/demo/react-on-screen-test/static/js/runtime~main.a4902b54.js.map",
-  "static/css/main.b1247435.chunk.css.map": "/demo/react-on-screen-test/static/css/main.b1247435.chunk.css.map",
-  "index.html": "/demo/react-on-screen-test/index.html",
-  "precache-manifest.4cc1721b874581e4791799249274d43b.js": "/demo/react-on-screen-test/precache-manifest.4cc1721b874581e4791799249274d43b.js",
-  "service-worker.js": "/demo/react-on-screen-test/service-worker.js"
+  "main.css": "/react-on-screen-test-demo/static/css/main.b1247435.chunk.css",
+  "main.js": "/react-on-screen-test-demo/static/js/main.5dbf859a.chunk.js",
+  "main.js.map": "/react-on-screen-test-demo/static/js/main.5dbf859a.chunk.js.map",
+  "static/js/1.720bc022.chunk.js": "/react-on-screen-test-demo/static/js/1.720bc022.chunk.js",
+  "static/js/1.720bc022.chunk.js.map": "/react-on-screen-test-demo/static/js/1.720bc022.chunk.js.map",
+  "runtime~main.js": "/react-on-screen-test-demo/static/js/runtime~main.d5c1b388.js",
+  "runtime~main.js.map": "/react-on-screen-test-demo/static/js/runtime~main.d5c1b388.js.map",
+  "static/css/main.b1247435.chunk.css.map": "/react-on-screen-test-demo/static/css/main.b1247435.chunk.css.map",
+  "index.html": "/react-on-screen-test-demo/index.html",
+  "precache-manifest.7cb2ba3761582ae8671f4d47a78399f3.js": "/react-on-screen-test-demo/precache-manifest.7cb2ba3761582ae8671f4d47a78399f3.js",
+  "service-worker.js": "/react-on-screen-test-demo/service-worker.js"
 }
